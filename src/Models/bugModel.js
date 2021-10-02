@@ -1,5 +1,3 @@
-export default bug
-
 const bug = bug => {
   if(bug != undefined) {
     this._id = bug._id;
@@ -13,3 +11,5 @@ const bug = bug => {
     this.time = bug.time;
   }
 }
+
+export default bug;
